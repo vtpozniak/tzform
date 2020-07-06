@@ -1,0 +1,15 @@
+{
+    "name": "victor/vpozniak",
+    "authors": [
+        {
+            "name": "vpozniak",
+            "email": "vitalikpoz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DataStart\\": "src/"
+        }
+    },
+    "require": {}
+}
